@@ -176,6 +176,6 @@ public class ShoppingCartFrame  {
         total_No_Label.setText(Double.toString(WestminsterFrame.user_Shopping_Cart.total_cost()));
         first_Discount_No_Label.setText(Double.toString(WestminsterFrame.user_Shopping_Cart.first_Discount(false)));
         category_Discount_No_Label.setText(Double.toString(WestminsterFrame.user_Shopping_Cart.category_Discount()));
-        final_total_No_Label.setText(Double.toString(WestminsterFrame.user_Shopping_Cart.total_cost()));
+        final_total_No_Label.setText(Double.toString(WestminsterFrame.user_Shopping_Cart.final_total()));
     }
 }
