@@ -1,0 +1,6 @@
+e12|switch|12|300.0|king|5|Electronics
+e89|fan|7|1000.0|KDK|12|Electronics
+w12|Shirt|6|500.0|m|black|Clothing
+w34|short|15|400.0|m|brown|Clothing
+w45|frock|6|600.0|l|yellow|Clothing
+w65|tshirt|17|200.0|s|blue|Clothing
